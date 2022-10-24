@@ -16,5 +16,7 @@
    
 9.  
 function fetchData() {
+
   fetch('./citylots.json')
+  
 }
